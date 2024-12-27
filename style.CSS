@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+.hihi{
+   color: rgb(210, 42, 30);
+   position:relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+  
+}
+.dfg {
+    position:relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ssss{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(210, 42, 30);
+}
+.pppp{
+  position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(210, 42, 30);
+}
+
