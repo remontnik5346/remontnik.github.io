@@ -1,3 +1,4 @@
+
 body{
     background-color: antiquewhite;
 }
@@ -32,4 +33,26 @@ body{
     align-items: center;
     color: rgb(210, 42, 30);
 }
-
+.qwe{
+  position:relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ert{
+  position:relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-footer {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 222, 222);
+    border: none;
+    box-shadow: 5px 4px 8px rgb(153, 110, 110);
+    position:relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
